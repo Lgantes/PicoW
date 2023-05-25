@@ -18,9 +18,15 @@ Descripción detallada de las características del HX711 Load Cell (5kg).
 
 Explicación sobre cómo funciona el HX711 y su principio de operación.
 
+![HX711 Diagram](https://example.com/hx711_diagram.png)
+*Figura 1: Diagrama de funcionamiento del HX711*
+
 ## Conexiones
 
 Diagrama o esquema de las conexiones necesarias para utilizar el HX711 con tu microcontrolador o placa.
+
+![HX711 Connections](https://example.com/hx711_connections.png)
+*Figura 2: Conexiones del HX711*
 
 ## Bibliotecas y ejemplos
 
@@ -40,6 +46,3 @@ Recursos adicionales, como datasheets, tutoriales o enlaces útiles relacionados
 
 *¡Disfruta de tus proyectos con el HX711 Load Cell (5kg)!*
 
-
-
-Lgantes
