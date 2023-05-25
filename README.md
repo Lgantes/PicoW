@@ -18,7 +18,7 @@ Descripción detallada de las características del HX711 Load Cell (5kg).
 
 Explicación sobre cómo funciona el HX711 y su principio de operación.
 
-![HX711 Diagram](https://example.com/hx711_diagram.png)
+![HX711 Diagram]([https://example.com/hx711_diagram.png](https://circuitjournal.com/img/articles/10_50kg_load_cell/HX711_1x50kg_load_cell_diagram.jpg?v=19))
 *Figura 1: Diagrama de funcionamiento del HX711*
 
 ## Conexiones
