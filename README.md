@@ -40,3 +40,6 @@ Recursos adicionales, como datasheets, tutoriales o enlaces útiles relacionados
 
 *¡Disfruta de tus proyectos con el HX711 Load Cell (5kg)!*
 
+
+
+Lgantes
