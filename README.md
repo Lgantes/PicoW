@@ -1,4 +1,4 @@
-# HX711 Load Cell (5kg)
+# HX711 Load Cell (5kg)    <img src="logo.jfif" alt="diagrama" width="200"/>
 
 > Descripción breve del HX711 Load Cell (5kg).
 
